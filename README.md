@@ -73,7 +73,6 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 Na tela principal, o usuário escolhe qual será a sua jogada e o App mostra o placar.
 
-![jokenpo](https://github.com/user-attachments/assets/ef5a74bf-527c-4fe2-bf3d-847c3f02a5d5)
 
 <img src="https://github.com/user-attachments/assets/ef5a74bf-527c-4fe2-bf3d-847c3f02a5d5" width="260" height="500"/>
 
