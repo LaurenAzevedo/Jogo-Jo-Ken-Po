@@ -73,9 +73,11 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 Na tela principal, o usuário escolhe qual será a sua jogada e o App mostra o placar.
 
-
 <img src="https://github.com/user-attachments/assets/ef5a74bf-527c-4fe2-bf3d-847c3f02a5d5" width="260" height="500"/>
 
+# 🧰 APK do APP 
+
+<a href="https://github.com/LaurenAzevedo/Jogo-Jo-Ken-Po/blob/main/jokenpo.apk"> Download APK </a>
 
 
 # 📄 Licença
